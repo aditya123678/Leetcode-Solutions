@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0412-fizz-buzz](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
 | ------- |
@@ -45,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/aditya123678/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
