@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
@@ -107,10 +108,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0938-range-sum-of-bst](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
