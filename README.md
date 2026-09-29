@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0705-design-hashset](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aditya123678/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/aditya123678/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/aditya123678/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0705-design-hashset](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0705-design-hashset) |
 ## Sorting
 |  |
 | ------- |
@@ -147,8 +149,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0705-design-hashset](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0705-design-hashset) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
