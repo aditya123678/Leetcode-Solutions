@@ -9,11 +9,7 @@ public:
         {
             int profit = prices[i] - minPrice;
             maxProfit=max(maxProfit,profit);
-
-            if(prices[i] < minPrice)
-            {
-                minPrice = prices[i];
-            }
+            minPrice=min(minPrice,prices[i]);
         }
 
         return maxProfit;
