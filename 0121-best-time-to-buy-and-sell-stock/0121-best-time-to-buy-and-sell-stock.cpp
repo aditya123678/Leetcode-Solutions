@@ -8,11 +8,7 @@ public:
         for(int i = 1; i < prices.size(); i++)
         {
             int profit = prices[i] - minPrice;
-
-            if(profit > maxProfit)
-            {
-                maxProfit = profit;
-            }
+            maxProfit=max(maxProfit,profit);
 
             if(prices[i] < minPrice)
             {
