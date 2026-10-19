@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0622-design-circular-queue](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0705-design-hashset](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0746-min-cost-climbing-stairs](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0622-design-circular-queue](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0705-design-hashset) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0705-design-hashset) |
 ## Hash Function
 |  |
@@ -229,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/aditya123678/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
